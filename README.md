@@ -13,20 +13,14 @@
 
 ### Connect with me:
 
-[![twitter](./img/twitter-light.svg)](https://twitter.com/TobiSobayo1#gh-light-mode-only)
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/TobiSobayo1#gh-dark-mode-only)
+[![twitter](./img/twitter-light.svg)](https://twitter.com/TobiSobayo1#gh-light-mode-only)[twitter]
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/TobiSobayo1#gh-dark-mode-only)[twitter]
 &nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/Shobam#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/Shobam#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/Shobam#gh-light-mode-only)[linkedin]
+[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/Shobam#gh-dark-mode-only)[linkedin]
 &nbsp;&nbsp;
-[![instagram](./img/instagram-light.svg)](https://instagram.com/t_o_b_i_ee/#gh-light-mode-only)
-[![instagram](./img/instagram-dark.svg)](https://instagram.com/t_o_b_i_ee/#gh-dark-mode-only)
-
-[twitter]: https://twitter.com/TobiSobayo1
-[instagram]: https://instagram.com/t_o_b_i_ee/
-[linkedin]: https://linkedin.com/in/Shobam
-[github]: https://github.com/Stargnite
-
+[![instagram](./img/instagram-light.svg)](https://instagram.com/t_o_b_i_ee/#gh-light-mode-only)[instagram]
+[![instagram](./img/instagram-dark.svg)](https://instagram.com/t_o_b_i_ee/#gh-dark-mode-only)[instagram]
 
 ### Languages and Tools:
 
