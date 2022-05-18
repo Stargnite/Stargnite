@@ -12,9 +12,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/TobiSobayo1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TobiSobayo1)
 
-[![linkedin](https://img.shields.io/twitter/follow/TobiSobayo1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://linkedin.com/in/Shobam)
+[![linkedin](https://img.shields.io/linkedin/follow/shobam?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://linkedin.com/in/Shobam)
 
-[![instagram]((https://img.shields.io/twitter/follow/TobiSobayo1?color=1DA1F2&logo=twitter&style=for-the-badge))](https://instagram.com/t_o_b_i_ee/)
+[![instagram]((https://img.shields.io/instagram/follow/t_o_b_i_ee?color=1DA1F2&logo=instagram&style=for-the-badge))](https://instagram.com/t_o_b_i_ee)
 
 ### Languages and Tools:
 
