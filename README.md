@@ -42,6 +42,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-[![Shobam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stargnite)](https://github.com/Stargnite/github-readme-stats)
+[![Shobam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stargnite&show_icons=true&theme=radical)](https://github.com/Stargnite/github-readme-stats)
 
 </details>
