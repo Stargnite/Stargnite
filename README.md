@@ -13,11 +13,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/TobiSobayo1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TobiSobayo1)
 
 &nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/Shobam#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/Shobam#gh-dark-mode-only)
+[![linkedin](https://img.shields.io/twitter/follow/TobiSobayo1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://linkedin.com/in/Shobam#gh-light-mode-only)
+[![linkedin]((https://img.shields.io/twitter/follow/TobiSobayo1?color=1DA1F2&logo=twitter&style=for-the-badge))](https://linkedin.com/in/Shobam#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![instagram](./img/instagram-light.svg)](https://instagram.com/t_o_b_i_ee/#gh-light-mode-only)
-[![instagram](./img/instagram-dark.svg)](https://instagram.com/t_o_b_i_ee/#gh-dark-mode-only)
+[![instagram]((https://img.shields.io/twitter/follow/TobiSobayo1?color=1DA1F2&logo=twitter&style=for-the-badge))](https://instagram.com/t_o_b_i_ee/#gh-light-mode-only)
+[![instagram]((https://img.shields.io/twitter/follow/TobiSobayo1?color=1DA1F2&logo=twitter&style=for-the-badge))](https://instagram.com/t_o_b_i_ee/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
