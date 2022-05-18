@@ -1,7 +1,7 @@
 # Hello, I'm Tobi -- aka -- Shobam, 
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/TobiSobayo1?color=1DA1F2&logo=twitter&style=for-the-badge)]
+[![Twitter Follow](https://img.shields.io/twitter/follow/TobiSobayo1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TobiSobayo1)
 
 
 ## I'm a Student, Web Development Enthusiast, and Family Person
