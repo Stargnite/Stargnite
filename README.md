@@ -1,9 +1,6 @@
 # Hello, I'm Tobi -- aka -- Shobam, 
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/TobiSobayo1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TobiSobayo1)
-
-
 ## I'm a Student, Web Development Enthusiast, and Family Person
 
 - 🌱 I’m currently learning everything 🤣
@@ -13,8 +10,8 @@
 
 ### Connect with me:
 
-[![twitter](./img/twitter-light.svg)](https://twitter.com/TobiSobayo1#gh-light-mode-only)
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/TobiSobayo1#gh-dark-mode-only)
+[![Twitter Follow](https://img.shields.io/twitter/follow/TobiSobayo1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TobiSobayo1)
+
 &nbsp;&nbsp;
 [![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/Shobam#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/Shobam#gh-dark-mode-only)
