@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-[![twitter](./img/twitter-light.svg)](https://twitter.com/TobiSobayo1#gh-light-mode-only)
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/TobiSobayo1#gh-dark-mode-only)
+[![twitter](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.kindpng.com%2Fpicc%2Fm%2F106-1061402_s-svg-icon-free-twitter-icon-black-png.png&imgrefurl=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FJhToxm_s-svg-icon-free-twitter-icon-black-png%2F&tbnid=Sg1vo3_wHENHHM&vet=12ahUKEwjCkYaIuun3AhW2aPEDHeyOAJoQMygAegUIARCAAQ..i&docid=xBzLuECBIrNslM&w=860&h=787&q=.%2Fimg%2Ftwitter-dark.svg&ved=2ahUKEwjCkYaIuun3AhW2aPEDHeyOAJoQMygAegUIARCAAQ)](https://twitter.com/TobiSobayo1#gh-light-mode-only)
+[![twitter](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.kindpng.com%2Fpicc%2Fm%2F106-1061402_s-svg-icon-free-twitter-icon-black-png.png&imgrefurl=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FJhToxm_s-svg-icon-free-twitter-icon-black-png%2F&tbnid=Sg1vo3_wHENHHM&vet=12ahUKEwjCkYaIuun3AhW2aPEDHeyOAJoQMygAegUIARCAAQ..i&docid=xBzLuECBIrNslM&w=860&h=787&q=.%2Fimg%2Ftwitter-dark.svg&ved=2ahUKEwjCkYaIuun3AhW2aPEDHeyOAJoQMygAegUIARCAAQ)](https://twitter.com/TobiSobayo1#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/Shobam#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/Shobam#gh-dark-mode-only)
