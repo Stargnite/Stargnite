@@ -22,6 +22,12 @@
 [![instagram](./img/instagram-light.svg)](https://instagram.com/t_o_b_i_ee/#gh-light-mode-only)
 [![instagram](./img/instagram-dark.svg)](https://instagram.com/t_o_b_i_ee/#gh-dark-mode-only)
 
+[twitter]: https://twitter.com/TobiSobayo1
+[instagram]: https://instagram.com/t_o_b_i_ee/
+[linkedin]: https://linkedin.com/in/Shobam
+[github]: https://github.com/Stargnite
+
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />] 
@@ -47,7 +53,3 @@
 </details>
 
 
-[twitter]: https://twitter.com/TobiSobayo1
-[instagram]: https://instagram.com/t_o_b_i_ee/
-[linkedin]: https://linkedin.com/in/Shobam
-[github]: https://github.com/Stargnite
