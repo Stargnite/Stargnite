@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-[![twitter](./img/twitter-light.svg)](https://twitter.com/TobiSobayo1#gh-light-mode-only)
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/TobiSobayo1#gh-dark-mode-only)
+[![twitter](<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 273.5 222.3" role="img" aria-labelledby="al9qrtpq6kptwg6aoaunp1ise9aodys" class="octicon">)](https://twitter.com/TobiSobayo1#gh-light-mode-only)
+[![twitter](<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 273.5 222.3" role="img" aria-labelledby="al9qrtpq6kptwg6aoaunp1ise9aodys" class="octicon">)](https://twitter.com/TobiSobayo1#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/Shobam#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/Shobam#gh-dark-mode-only)
