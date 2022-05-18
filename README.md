@@ -1,7 +1,7 @@
-# Hello, I'm Tobi -- aka -- Shobam, 
+# Hello there 👋🏽, I'm Tobi -- aka -- Shobam
 
 
-## I'm a Student, Web Development Enthusiast, and Family Person
+## I'm currently a Student, Web Development Enthusiast, and i'm also always curious.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
