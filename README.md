@@ -13,14 +13,14 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/TobiSobayo1#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/TobiSobayo1#gh-dark-mode-only)
+[![twitter](./img/twitter-light.svg)](https://twitter.com/TobiSobayo1#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/TobiSobayo1#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/Shobam#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/Shobam#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/Shobam#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/Shobam#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/t_o_b_i_ee/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/t_o_b_i_ee/#gh-dark-mode-only)
+[![instagram](./img/instagram-light.svg)](https://instagram.com/t_o_b_i_ee/#gh-light-mode-only)
+[![instagram](./img/instagram-dark.svg)](https://instagram.com/t_o_b_i_ee/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
