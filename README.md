@@ -1,4 +1,4 @@
-# Hello, I'm Tobi --- aka --- Shobam, 
+# Hello, I'm Tobi -- aka -- Shobam, 
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/TobiSobayo1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
@@ -19,8 +19,8 @@
 [![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/Shobam#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/Shobam#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![instagram](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram-light.svg)](https://instagram.com/t_o_b_i_ee/#gh-light-mode-only)
-[![instagram](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram-dark.svg)](https://instagram.com/t_o_b_i_ee/#gh-dark-mode-only)
+[![instagram](./img/instagram-light.svg)](https://instagram.com/t_o_b_i_ee/#gh-light-mode-only)
+[![instagram](./img/instagram-dark.svg)](https://instagram.com/t_o_b_i_ee/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
