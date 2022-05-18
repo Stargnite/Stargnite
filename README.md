@@ -19,8 +19,8 @@
 [![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/Shobam#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/Shobam#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![instagram](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg)](https://instagram.com/t_o_b_i_ee/#gh-light-mode-only)
-[![instagram](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg)](https://instagram.com/t_o_b_i_ee/#gh-dark-mode-only)
+[![instagram](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram-light.svg)](https://instagram.com/t_o_b_i_ee/#gh-light-mode-only)
+[![instagram](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram-dark.svg)](https://instagram.com/t_o_b_i_ee/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
