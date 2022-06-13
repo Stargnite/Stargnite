@@ -1,20 +1,25 @@
-# Hello there 👋🏽, I'm Tobi -- aka -- Shobam
+<h1 align="center"> Hello there 👋🏽, I'm Sobayo Tobi -- aka -- Shobam</h1>
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/TobiSobayo1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TobiSobayo1)
 
-## I'm currently a Student, Web Development Enthusiast, and i'm also always curious to learn.
+<h3 align="center">I'm currently a Student, Web Development Enthusiast, and i'm also always curious to learn</h3>
 
-- 🌱 I’m currently learning everything 🤣
+<img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
+
+- 🌱 I’m currently learning everything based on web development🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Land my first remote web development job
 - ⚡ Fun fact: I love to play games and hope to be a game developer some day
 
-### Connect with me:
+### Connect with through:
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/TobiSobayo1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TobiSobayo1)
 
-[![linkedin](https://img.shields.io/linkedin/follow/shobam?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://linkedin.com/in/Shobam)
+<p align="left">
+<a href="https://twitter.com/aysuarex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shobam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Shobam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sobayo Tobi" height="30" width="40" /></a>
+<a href="https://instagram.com/t_o_b_i_ee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Stargnite" height="30" width="40" /></a>
+</p>
 
-[![instagram]((https://img.shields.io/instagram/follow/t_o_b_i_ee?color=1DA1F2&logo=instagram&style=for-the-badge))](https://instagram.com/t_o_b_i_ee)
 
 ### Languages and Tools:
 
