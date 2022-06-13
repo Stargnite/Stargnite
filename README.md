@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm currently a Student, Web Development Enthusiast, and i'm also always curious to learn</h3>
 
-<img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
+<img align= "right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 - 🌱 I’m currently learning everything based on web development🤣
 - 👯 I’m looking to collaborate with other developers
