@@ -1,6 +1,5 @@
 <h1 align="center"> Hello there 👋🏽, I'm Sobayo Tobi -- aka -- Shobam</h1>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/TobiSobayo1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TobiSobayo1)
 
 <h3 align="center">I'm currently a Student, Web Development Enthusiast, and i'm also always curious to learn</h3>
 
@@ -11,15 +10,15 @@
 - 🥅 2022 Goals: Land my first remote web development job
 - ⚡ Fun fact: I love to play games and hope to be a game developer some day
 
-### Connect with through:
+### Connect with me through:
 
 
 <p align="left">
-<a href="https://twitter.com/aysuarex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shobam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Shobam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sobayo Tobi" height="30" width="40" /></a>
+<a href="https://twitter.com/TobiSobayo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shobam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Shobam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Oluwatobiloba Amoo-Sobayo" height="30" width="40" /></a>
 <a href="https://instagram.com/t_o_b_i_ee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Stargnite" height="30" width="40" /></a>
 </p>
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/TobiSobayo1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TobiSobayo1)
 
 ### Languages and Tools:
 
