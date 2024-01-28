@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything based on web development😁
 - 👯 I’m open to collaborate with other developers
-- 🥅 2023 Goals: Land my first remote web development job
+- 🥅 2024 Goals: Land my first remote web development job
 - ⚡ Fun fact: I love to play games and hope to be a game developer some day
 - 💡 Educational Status: I'm currently a student of Olabisi Onabanjo University, studying Mathematics
 - 😊 I’m open to partake in open source projects, hackathons, internships, and entry-level opportunities.
