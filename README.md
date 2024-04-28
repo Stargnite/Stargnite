@@ -1,17 +1,16 @@
 <h1 align="center"> Hello there 👋🏽, I'm Sobayo Tobi -- aka -- Shobam</h1>
 
 
-<h3 align="center">I'm a graduate of AltSchool Africa(School of Engineering) class of 2022, Web Development Enthusiast, and i'm also always curious to acquire knowledge.</h3>
+<h3 align="center">A web developer with vast array of knowledge. Always eager to acquire more knowledge.</h3>
 
 <img align= "right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-- 🌱 I’m currently learning everything based on web development😁
-- 👯 I’m open to collaborate with other developers
-- 🥅 2024 Goals: Land my first remote web development job
-- ⚡ Fun fact: I love to play games and hope to be a game developer some day
+- 👯 I’m always open to collaborate with other developers
+- 🥅 2024 Goals: consistently advance in the tech world🚀😁
 - 💡 Educational Status: I'm currently a student of Olabisi Onabanjo University, studying Mathematics
-- 😊 I’m open to partake in open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 😊 I’m open to partake in open source projects, hackathons, internships, and tech-related opportunities.
+- ⚡ Fun fact: I love to play games and hope to be a game developer some day
+- 💼 Job interests: Software Engineer, Front Engineer, web developer or UI Engineer.
 - 📫 You can contact me by emailing sobayotoby@gmail.com.
 
 ### Connect with me through:
