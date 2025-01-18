@@ -6,11 +6,11 @@
 <img align= "right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 - 👯 I’m always open to collaborate with other developers
-- 🥅 2024 Goals: consistently advance in the tech world🚀😁
+- 🥅 2025 Goals: consistently advance in the tech world🚀😁
 - 💡 Educational Status: I'm currently a student of Olabisi Onabanjo University, studying Mathematics
 - 😊 I’m open to partake in open source projects, hackathons, internships, and tech-related opportunities.
 - ⚡ Fun fact: I love to play games and hope to be a game developer some day
-- 💼 Job interests: Software Engineer, Front Engineer, web developer or UI Engineer.
+- 💼 Job interests: Software Engineer, Front Engineer, web developer, web3 developer or UI Engineer.
 - 📫 You can contact me by emailing sobayotoby@gmail.com.
 
 ### Connect with me through:
