@@ -6,8 +6,8 @@
 <img align= "right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 - 👯 I’m always open to collaborate with other developers
-- 🥅 2025 Goals: consistently advance in the tech world🚀😁
-- 💡 Educational Status: I'm currently a student of Olabisi Onabanjo University, studying Mathematics
+- 🥅 2025 Goals: Gain solid grounds in web3🚀😁
+- 💡 Educational Status: I'm a recent graduate of Olabisi Onabanjo University, studied Mathematics
 - 😊 I’m open to partake in open source projects, hackathons, internships, and tech-related opportunities.
 - ⚡ Fun fact: I love to play games and hope to be a game developer some day
 - 💼 Job interests: Software Engineer, Front Engineer, web developer, web3 developer or UI Engineer.
@@ -17,12 +17,12 @@
 
 
 <p align="left">
-<a href="https://twitter.com/TobiSobayo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shobam" height="30" width="40" /></a>
+<a href="https://twitter.com/Shobam_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shobam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Shobam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Oluwatobiloba Amoo-Sobayo" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shobam__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Stargnite" height="30" width="40" /></a>
 </p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/TobiSobayo1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TobiSobayo1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/TobiSobayo1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Shobam_dev)
 
 ### Languages and Tools:
 
